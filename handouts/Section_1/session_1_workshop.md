@@ -4,7 +4,6 @@
 
 1.  **Installing Base R**
     -   Guide to download and install from https://cran.r-project.org/
-
     -   Run simple commands in the R console:
 
         ``` r
@@ -21,28 +20,18 @@
 -   **Why use an IDE?**
 
     -   Easier to write and organize code
-
-    <!-- -->
-
     -   Better debugging and visualization
-
-    <!-- -->
-
     -   Integration with projects and version control
 
 3.  **Installing Positron**
 
     -   Download and install from [Positron](https://posit.co/blog/introducing-positron/)
     -   Install and launch Positron.
-
-    <!-- -->
-
     -   Create a new R project:
 
 4.  **Running Commands and Saving Scripts**
 
     -   In Positron, create a new script file (`.R`).
-
     -   Write and run:
 
         ``` r
@@ -72,9 +61,7 @@
 6.  Creating a Project Folder
 
     -   Create a folder for your R community work.
-
     -   Save scripts, notes, and datasets in organized subfolders.
-
     -   Use version control (e.g., GitHub) to share and collaborate.
 
 ------------------------------------------------------------------------
